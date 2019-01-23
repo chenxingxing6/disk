@@ -19,15 +19,18 @@
 
 ---
 
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](https://raw.githubusercontent.com/chenxingxing6/disk/master/img/1.png)
 
 ---
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](https://raw.githubusercontent.com/chenxingxing6/disk/master/img/2.png)
+
+---
+![avatar](https://raw.githubusercontent.com/chenxingxing6/disk/master/img/3.png)
 
 ---
 
 #### Hbase创建表语句
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](https://raw.githubusercontent.com/chenxingxing6/disk/master/img/4.png)
 
 ---
 ```sql
